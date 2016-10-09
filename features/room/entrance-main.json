@@ -1,0 +1,19 @@
+{
+    "titles": {
+        "de": "Haupteingang",
+        "en": "Main Entrance"
+    },
+    "level": "0",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [251.0, 148.04],
+                [253.86, 149.68],
+                [251.05, 154.57],
+                [248.2, 152.92],
+                [251.0, 148.04]
+            ]
+        ]
+    }
+}
