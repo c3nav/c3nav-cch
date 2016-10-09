@@ -1,0 +1,25 @@
+language: python
+cache: pip
+
+python:
+    - "3.4"
+
+before_install:
+    - cd ..
+
+install:
+    - git clone --depth=50 --branch=master https://github.com/c3nav/c3nav.git c3nav
+    - mkdir -p c3nav/src/data/map
+    - mv c3nav-cch c3nav/src/data/map/
+    - cd c3nav/src/
+    - pip install -U setuptools
+    - pip install -r requirements.txt
+
+script:
+    - python manage.py checkmap
+
+
+notifications:
+    webhooks:
+        urls:
+            - https://hooks.c3nav.de
