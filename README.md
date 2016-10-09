@@ -1,2 +1,2 @@
-# c3nav-33c3
-c3nav map for the 33C3
+# c3nav-cch
+c3nav map vor the Congress Center Hamburg
