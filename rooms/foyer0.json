@@ -1,8 +1,4 @@
 {
-    "titles": {
-        "de": "Erdgeschoss Foyer",
-        "en": "Ground Level Foyer"
-    },
     "level": "0",
     "geometry": {
         "type": "Polygon",

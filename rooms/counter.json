@@ -1,8 +1,4 @@
 {
-    "titles": {
-        "de": "Kasse",
-        "en": "Counter"
-    },
     "level": "0",
     "geometry": {
         "type": "Polygon",

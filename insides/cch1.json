@@ -1,8 +1,4 @@
 {
-    "titles": {
-        "de": "CCH 1. OG",
-        "en": "CCH Level 1"
-    },
     "level": "1",
     "geometry": {
         "type": "Polygon",
