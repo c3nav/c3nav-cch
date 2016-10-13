@@ -1,8 +1,4 @@
 {
-    "titles": {
-        "de": "Hauptausgang 2",
-        "en": "Main Exit 2"
-    },
     "level": "0",
     "geometry": {
         "type": "Polygon",

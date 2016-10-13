@@ -1,8 +1,4 @@
 {
-    "titles": {
-        "de": "Haupteingang",
-        "en": "Main Entrance"
-    },
     "level": "0",
     "geometry": {
         "type": "Polygon",

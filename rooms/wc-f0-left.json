@@ -1,8 +1,4 @@
 {
-    "titles": {
-        "de": "Erdgeschoss Foyer Toilette (Links)",
-        "en": "Ground Level Foyer Toilet (Left)"
-    },
     "level": "0",
     "geometry": {
         "type": "Polygon",
