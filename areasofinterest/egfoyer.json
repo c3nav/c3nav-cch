@@ -1,5 +1,9 @@
 {
     "level": "0",
+    "titles": {
+        "de": "Erdgeschoss Foyer",
+        "en": "Ground Level Foyer"
+    },
     "groups": [],
     "geometry": {
         "type": "Polygon",
