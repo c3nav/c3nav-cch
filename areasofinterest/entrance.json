@@ -1,5 +1,9 @@
 {
     "level": "0",
+    "titles": {
+        "de": "Eingangshalle",
+        "en": "Entrance Hall"
+    },
     "groups": [],
     "geometry": {
         "type": "Polygon",

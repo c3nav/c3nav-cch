@@ -1,5 +1,9 @@
 {
     "level": "0",
+    "titles": {
+        "de": "Flur neben Saal 3",
+        "en": "Corridor beside Hall 3"
+    },
     "groups": [],
     "geometry": {
         "type": "Polygon",

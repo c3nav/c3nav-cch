@@ -1,5 +1,9 @@
 {
     "level": "0",
+    "titles": {
+        "de": "Saal 6",
+        "en": "Hall 6"
+    },
     "groups": [],
     "geometry": {
         "type": "Polygon",
