@@ -13,5 +13,6 @@
         ]
     },
     "elevator": "accessibility",
-    "button": "4b"
+    "button": "4b",
+    "override_altitude": 4.2
 }
