@@ -4,7 +4,11 @@
         "de": "Saal 1 Garderobenfoyer ",
         "en": "Hall 1 Cloakroom Foyer"
     },
+    "can_search": true,
+    "routing_inclusion": "default",
     "groups": [],
+    "location_type": "room",
+    "can_describe": true,
     "geometry": {
         "type": "Polygon",
         "coordinates": [

@@ -4,7 +4,11 @@
         "de": "Saal 4",
         "en": "Hall 4"
     },
+    "can_search": true,
+    "routing_inclusion": "default",
     "groups": [],
+    "location_type": "room",
+    "can_describe": true,
     "geometry": {
         "type": "Polygon",
         "coordinates": [

@@ -1,0 +1,28 @@
+{
+    "level": "1",
+    "titles": {
+        "de": "Planten un Blomen",
+        "en": "Planten un Blomen"
+    },
+    "can_search": true,
+    "routing_inclusion": "default",
+    "groups": [],
+    "location_type": "room",
+    "can_describe": true,
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [206.02, 110.65],
+                [219.58, 118.46],
+                [214.85, 126.68],
+                [210.02, 125.12],
+                [210.01, 123.5],
+                [205.69, 122.3],
+                [206.37, 119.77],
+                [202.17, 117.32],
+                [206.02, 110.65]
+            ]
+        ]
+    }
+}

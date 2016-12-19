@@ -4,7 +4,11 @@
         "de": "Erdgeschoss Foyer",
         "en": "Ground Level Foyer"
     },
+    "can_search": true,
+    "routing_inclusion": "default",
     "groups": [],
+    "location_type": "room",
+    "can_describe": true,
     "geometry": {
         "type": "Polygon",
         "coordinates": [
