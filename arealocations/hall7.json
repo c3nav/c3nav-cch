@@ -1,8 +1,8 @@
 {
-    "level": "2",
+    "level": "1",
     "titles": {
-        "de": "Aufzugfoyer 2. OG",
-        "en": "Elevator Foyer Level 2"
+        "de": "Saal 7",
+        "en": "Hall 7"
     },
     "can_search": true,
     "routing_inclusion": "default",
@@ -13,11 +13,11 @@
         "type": "Polygon",
         "coordinates": [
             [
-                [207.61, 125.92],
-                [201.66, 134.09],
-                [195.77, 132.52],
-                [195.33, 122.83],
-                [207.61, 125.92]
+                [174.72, 99.11],
+                [183.41, 99.06],
+                [183.36, 113.42],
+                [174.7, 113.36],
+                [174.72, 99.11]
             ]
         ]
     }

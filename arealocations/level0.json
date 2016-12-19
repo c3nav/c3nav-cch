@@ -1,0 +1,25 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "EG",
+        "en": "Level 0"
+    },
+    "can_search": true,
+    "routing_inclusion": "default",
+    "groups": [],
+    "location_type": "level",
+    "can_describe": true,
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [210.75, 18.25],
+                [373.25, 157.25],
+                [328.0, 238.5],
+                [11.25, 157.0],
+                [43.25, 36.5],
+                [210.75, 18.25]
+            ]
+        ]
+    }
+}

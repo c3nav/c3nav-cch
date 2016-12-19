@@ -1,0 +1,24 @@
+{
+    "level": "4",
+    "titles": {
+        "de": "4. OG",
+        "en": "Level 4"
+    },
+    "can_search": true,
+    "routing_inclusion": "default",
+    "groups": [],
+    "location_type": "level",
+    "can_describe": true,
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [117.75, 90.75],
+                [274.5, 91.5],
+                [243.75, 209.25],
+                [110.75, 176.75],
+                [117.75, 90.75]
+            ]
+        ]
+    }
+}
