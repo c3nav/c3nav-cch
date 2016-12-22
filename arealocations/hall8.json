@@ -1,0 +1,24 @@
+{
+    "level": "1",
+    "titles": {
+        "de": "Saal 8",
+        "en": "Hall 8"
+    },
+    "can_search": true,
+    "groups": [],
+    "location_type": "room",
+    "can_describe": true,
+    "routing_inclusion": "needs_permission",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [157.41, 99.22],
+                [174.78, 99.03],
+                [174.72, 113.38],
+                [157.34, 113.34],
+                [157.41, 99.22]
+            ]
+        ]
+    }
+}
