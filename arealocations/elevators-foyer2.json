@@ -5,10 +5,10 @@
         "en": "Elevator Foyer Level 2"
     },
     "can_search": true,
-    "routing_inclusion": "default",
     "groups": [],
     "location_type": "room",
     "can_describe": true,
+    "routing_inclusion": "default",
     "geometry": {
         "type": "Polygon",
         "coordinates": [

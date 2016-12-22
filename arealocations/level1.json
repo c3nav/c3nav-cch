@@ -5,10 +5,10 @@
         "en": "Level 1"
     },
     "can_search": true,
-    "routing_inclusion": "default",
     "groups": [],
     "location_type": "level",
     "can_describe": true,
+    "routing_inclusion": "default",
     "geometry": {
         "type": "Polygon",
         "coordinates": [
