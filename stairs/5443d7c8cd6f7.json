@@ -1,0 +1,10 @@
+{
+    "level": "1-2",
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [202.07, 147.44],
+            [199.91, 145.86]
+        ]
+    }
+}
