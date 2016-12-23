@@ -1,0 +1,29 @@
+{
+    "level": "3",
+    "titles": {
+        "de": "Saal 1 Rang rechts mitte",
+        "en": "Hall 1 Gallery Right Middle"
+    },
+    "can_search": true,
+    "groups": [
+        "h1"
+    ],
+    "location_type": "roomsegment",
+    "can_describe": true,
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [189.53, 135.53],
+                [182.78, 133.44],
+                [183.12, 144.5],
+                [185.31, 145.31],
+                [183.34, 149.44],
+                [186.94, 152.56],
+                [189.91, 146.41],
+                [189.53, 135.53]
+            ]
+        ]
+    }
+}

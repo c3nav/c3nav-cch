@@ -1,0 +1,27 @@
+{
+    "level": "2",
+    "titles": {
+        "de": "Saal G",
+        "en": "Hall G"
+    },
+    "can_search": true,
+    "groups": [],
+    "location_type": "room",
+    "can_describe": true,
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [90.45, 124.8],
+                [100.45, 124.8],
+                [127.59, 124.84],
+                [127.66, 152.73],
+                [126.55, 152.75],
+                [126.56, 156.17],
+                [90.42, 156.17],
+                [90.45, 124.8]
+            ]
+        ]
+    }
+}

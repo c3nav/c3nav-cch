@@ -1,0 +1,24 @@
+{
+    "level": "2",
+    "titles": {
+        "de": "Saal E",
+        "en": "Hall E"
+    },
+    "can_search": true,
+    "groups": [],
+    "location_type": "room",
+    "can_describe": true,
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [69.22, 119.59],
+                [65.02, 135.55],
+                [47.98, 130.94],
+                [52.28, 115.09],
+                [69.22, 119.59]
+            ]
+        ]
+    }
+}

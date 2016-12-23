@@ -1,0 +1,24 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Halle H",
+        "en": "Hall H"
+    },
+    "can_search": true,
+    "groups": [],
+    "location_type": "room",
+    "can_describe": true,
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [206.38, 49.12],
+                [206.31, 99.2],
+                [64.38, 99.19],
+                [64.56, 49.12],
+                [206.38, 49.12]
+            ]
+        ]
+    }
+}

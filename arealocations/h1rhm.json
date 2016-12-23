@@ -1,0 +1,28 @@
+{
+    "level": "4",
+    "titles": {
+        "de": "Saal 1 Rang oben mitte",
+        "en": "Hall 1 Gallery High Center"
+    },
+    "can_search": true,
+    "groups": [
+        "h1"
+    ],
+    "location_type": "roomsegment",
+    "can_describe": true,
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [173.22, 114.58],
+                [172.95, 122.42],
+                [174.7, 129.66],
+                [157.12, 129.78],
+                [159.11, 122.33],
+                [159.0, 114.56],
+                [173.22, 114.58]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "level": "1",
+    "titles": {
+        "de": "Saal 15",
+        "en": "Hall 15"
+    },
+    "can_search": true,
+    "groups": [],
+    "location_type": "room",
+    "can_describe": true,
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [216.92, 171.12],
+                [223.78, 174.41],
+                [219.19, 182.22],
+                [215.55, 180.97],
+                [212.44, 178.72],
+                [216.92, 171.12]
+            ]
+        ]
+    }
+}

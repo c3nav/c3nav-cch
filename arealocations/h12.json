@@ -1,0 +1,24 @@
+{
+    "level": "1",
+    "titles": {
+        "de": "Saal 12",
+        "en": "Hall 12"
+    },
+    "can_search": true,
+    "groups": [],
+    "location_type": "room",
+    "can_describe": true,
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [195.77, 158.78],
+                [202.38, 162.61],
+                [197.61, 170.66],
+                [191.12, 166.89],
+                [195.77, 158.78]
+            ]
+        ]
+    }
+}

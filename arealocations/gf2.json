@@ -1,0 +1,33 @@
+{
+    "level": "1",
+    "titles": {
+        "de": "Saal 2 Garderobenfoyer",
+        "en": "Hall 2 Cloakroom Foyer"
+    },
+    "can_search": true,
+    "groups": [],
+    "location_type": "room",
+    "can_describe": true,
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [203.64, 132.45],
+                [218.1, 140.91],
+                [216.82, 142.96],
+                [234.53, 153.27],
+                [228.09, 167.92],
+                [222.58, 164.83],
+                [220.31, 168.73],
+                [198.27, 156.02],
+                [199.34, 151.47],
+                [203.84, 145.17],
+                [198.81, 142.38],
+                [202.59, 135.62],
+                [201.69, 135.22],
+                [203.64, 132.45]
+            ]
+        ]
+    }
+}

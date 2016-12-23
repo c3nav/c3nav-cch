@@ -1,0 +1,24 @@
+{
+    "level": "1",
+    "titles": {
+        "de": "Saal 13",
+        "en": "Hall 13"
+    },
+    "can_search": true,
+    "groups": [],
+    "location_type": "room",
+    "can_describe": true,
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [202.31, 162.56],
+                [210.52, 167.34],
+                [205.83, 175.37],
+                [197.59, 170.67],
+                [202.31, 162.56]
+            ]
+        ]
+    }
+}

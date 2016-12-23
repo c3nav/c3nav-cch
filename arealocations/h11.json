@@ -1,0 +1,24 @@
+{
+    "level": "1",
+    "titles": {
+        "de": "Saal 11",
+        "en": "Hall 11"
+    },
+    "can_search": true,
+    "groups": [],
+    "location_type": "room",
+    "can_describe": true,
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [189.19, 154.99],
+                [195.81, 158.81],
+                [192.08, 165.03],
+                [185.58, 161.41],
+                [189.19, 154.99]
+            ]
+        ]
+    }
+}

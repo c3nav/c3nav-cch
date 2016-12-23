@@ -1,0 +1,28 @@
+{
+    "level": "4",
+    "titles": {
+        "de": "Saal 2 Rang oben rechts",
+        "en": "Hall 2 Gallery High Right"
+    },
+    "can_search": true,
+    "groups": [
+        "h2"
+    ],
+    "location_type": "roomsegment",
+    "can_describe": true,
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [226.64, 153.09],
+                [228.86, 147.98],
+                [231.7, 143.05],
+                [238.2, 150.78],
+                [232.83, 163.2],
+                [228.45, 160.81],
+                [226.64, 153.09]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "level": "2",
+    "titles": {
+        "de": "Saal D",
+        "en": "Hall D"
+    },
+    "can_search": true,
+    "groups": [],
+    "location_type": "room",
+    "can_describe": true,
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [73.86, 102.39],
+                [69.22, 119.66],
+                [52.28, 115.05],
+                [55.64, 102.34],
+                [73.86, 102.39]
+            ]
+        ]
+    }
+}

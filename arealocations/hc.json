@@ -1,0 +1,24 @@
+{
+    "level": "1",
+    "titles": {
+        "de": "Saal C",
+        "en": "Hall C"
+    },
+    "can_search": true,
+    "groups": [],
+    "location_type": "room",
+    "can_describe": true,
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [65.02, 135.53],
+                [60.69, 151.7],
+                [43.59, 147.22],
+                [48.08, 130.97],
+                [65.02, 135.53]
+            ]
+        ]
+    }
+}

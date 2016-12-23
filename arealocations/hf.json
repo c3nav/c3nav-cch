@@ -1,0 +1,24 @@
+{
+    "level": "2",
+    "titles": {
+        "de": "Saal F",
+        "en": "Hall F"
+    },
+    "can_search": true,
+    "groups": [],
+    "location_type": "room",
+    "can_describe": true,
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [64.97, 135.61],
+                [60.66, 151.77],
+                [43.59, 147.27],
+                [48.02, 130.98],
+                [64.97, 135.61]
+            ]
+        ]
+    }
+}
