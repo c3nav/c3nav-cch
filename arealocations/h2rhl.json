@@ -1,0 +1,28 @@
+{
+    "level": "4",
+    "titles": {
+        "de": "Saal 1 Rang oben links",
+        "en": "Hall 1 Gallery High Left"
+    },
+    "can_search": true,
+    "groups": [
+        "h1"
+    ],
+    "location_type": "roomsegment",
+    "can_describe": true,
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [218.83, 135.88],
+                [216.22, 140.59],
+                [213.12, 145.05],
+                [205.7, 147.17],
+                [201.09, 145.06],
+                [209.16, 134.08],
+                [218.83, 135.88]
+            ]
+        ]
+    }
+}

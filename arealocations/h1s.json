@@ -1,0 +1,34 @@
+{
+    "level": "2",
+    "titles": {
+        "de": "Saal 1 B\u00fchne",
+        "en": "Hall 1 Stage"
+    },
+    "can_search": true,
+    "groups": [
+        "h1"
+    ],
+    "location_type": "roomsegment",
+    "can_describe": true,
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [150.34, 163.68],
+                [161.44, 158.39],
+                [170.55, 158.44],
+                [182.79, 164.23],
+                [180.45, 169.39],
+                [178.78, 169.91],
+                [178.47, 168.75],
+                [166.12, 171.94],
+                [152.56, 168.33],
+                [151.0, 164.86],
+                [146.3, 166.91],
+                [145.19, 166.33],
+                [150.34, 163.68]
+            ]
+        ]
+    }
+}

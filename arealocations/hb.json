@@ -1,0 +1,24 @@
+{
+    "level": "1",
+    "titles": {
+        "de": "Saal B",
+        "en": "Hall B"
+    },
+    "can_search": true,
+    "groups": [],
+    "location_type": "room",
+    "can_describe": true,
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [69.27, 119.61],
+                [65.0, 135.52],
+                [47.98, 131.0],
+                [52.3, 115.11],
+                [69.27, 119.61]
+            ]
+        ]
+    }
+}

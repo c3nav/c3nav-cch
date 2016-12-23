@@ -1,0 +1,27 @@
+{
+    "level": "2",
+    "titles": {
+        "de": "Saal 2 Rang rechts unten",
+        "en": "Hall 2 Gallery Right Low"
+    },
+    "can_search": true,
+    "groups": [
+        "h2"
+    ],
+    "location_type": "roomsegment",
+    "can_describe": true,
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [224.27, 169.62],
+                [216.91, 176.53],
+                [217.47, 179.39],
+                [218.42, 180.23],
+                [225.42, 174.28],
+                [224.27, 169.62]
+            ]
+        ]
+    }
+}

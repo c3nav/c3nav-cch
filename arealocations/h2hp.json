@@ -1,0 +1,28 @@
+{
+    "level": "3",
+    "titles": {
+        "de": "Saal 2 Hochparkett",
+        "en": "Hall 2 High Parquet"
+    },
+    "can_search": true,
+    "groups": [
+        "h2"
+    ],
+    "location_type": "roomsegment",
+    "can_describe": true,
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [236.52, 148.31],
+                [231.61, 159.72],
+                [204.81, 144.19],
+                [211.94, 134.34],
+                [218.36, 136.0],
+                [231.97, 143.53],
+                [236.52, 148.31]
+            ]
+        ]
+    }
+}

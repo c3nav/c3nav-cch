@@ -1,0 +1,28 @@
+{
+    "level": "1",
+    "titles": {
+        "de": "Saal A",
+        "en": "Hall A"
+    },
+    "can_search": true,
+    "groups": [],
+    "location_type": "room",
+    "can_describe": true,
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [75.28, 102.47],
+                [73.42, 109.06],
+                [74.83, 109.45],
+                [74.42, 110.83],
+                [71.8, 110.09],
+                [69.25, 119.66],
+                [52.22, 115.09],
+                [55.66, 102.41],
+                [75.28, 102.47]
+            ]
+        ]
+    }
+}

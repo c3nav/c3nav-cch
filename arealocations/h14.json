@@ -1,0 +1,24 @@
+{
+    "level": "1",
+    "titles": {
+        "de": "Saal 14",
+        "en": "Hall 14"
+    },
+    "can_search": true,
+    "groups": [],
+    "location_type": "room",
+    "can_describe": true,
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [210.47, 167.3],
+                [216.84, 170.97],
+                [212.17, 179.02],
+                [205.84, 175.38],
+                [210.47, 167.3]
+            ]
+        ]
+    }
+}

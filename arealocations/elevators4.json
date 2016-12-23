@@ -1,0 +1,24 @@
+{
+    "level": "4",
+    "titles": {
+        "de": "Aufzugfoyer 4. OG",
+        "en": "Elevator Foyer Level 4"
+    },
+    "can_search": true,
+    "groups": [],
+    "location_type": "room",
+    "can_describe": true,
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [195.73, 132.56],
+                [195.16, 119.66],
+                [210.44, 123.67],
+                [202.56, 134.36],
+                [195.73, 132.56]
+            ]
+        ]
+    }
+}

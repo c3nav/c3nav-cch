@@ -1,0 +1,31 @@
+{
+    "level": "4",
+    "titles": {
+        "de": "Saal 2 Rangfoyer",
+        "en": "Hall 2 Gallery Foyer"
+    },
+    "can_search": true,
+    "groups": [],
+    "location_type": "room",
+    "can_describe": true,
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [201.34, 135.98],
+                [213.62, 119.31],
+                [249.09, 139.81],
+                [244.01, 151.43],
+                [238.55, 163.83],
+                [233.5, 161.57],
+                [238.31, 150.36],
+                [232.02, 143.33],
+                [218.64, 135.66],
+                [209.33, 133.62],
+                [205.39, 139.06],
+                [201.34, 135.98]
+            ]
+        ]
+    }
+}
