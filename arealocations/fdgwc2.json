@@ -9,7 +9,7 @@
     "groups": [
         "wc",
         "wcm",
-        "wcmo"
+        "wcxm"
     ],
     "location_type": "room",
     "routing_inclusion": "default",
