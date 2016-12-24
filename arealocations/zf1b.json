@@ -1,0 +1,30 @@
+{
+    "level": "3",
+    "titles": {
+        "de": "Saal 1 Zwischenfoyer Balkon",
+        "en": "Hall 1 Intermediate Foyer Balcony"
+    },
+    "can_search": true,
+    "groups": [],
+    "location_type": "room",
+    "can_describe": true,
+    "routing_inclusion": "needs_permission",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [198.81, 120.53],
+                [194.09, 119.25],
+                [193.41, 102.69],
+                [138.0, 102.59],
+                [138.03, 104.78],
+                [135.88, 104.59],
+                [136.28, 98.06],
+                [150.59, 98.06],
+                [150.97, 99.31],
+                [197.81, 99.34],
+                [198.81, 120.53]
+            ]
+        ]
+    }
+}
