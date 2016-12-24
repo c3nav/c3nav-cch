@@ -1,0 +1,26 @@
+{
+    "level": "3-4",
+    "titles": {
+        "de": ".",
+        "en": "."
+    },
+    "can_search": false,
+    "can_describe": false,
+    "groups": [
+        "talkhall"
+    ],
+    "location_type": "room",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [141.25, 144.88],
+                [191.0, 144.12],
+                [190.5, 126.38],
+                [143.0, 127.62],
+                [141.25, 144.88]
+            ]
+        ]
+    }
+}

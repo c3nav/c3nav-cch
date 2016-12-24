@@ -1,0 +1,10 @@
+{
+    "titles": {
+        "de": "Vortragssaal",
+        "en": "Talk Hall"
+    },
+    "can_search": false,
+    "can_describe": false,
+    "color": "#cbc4fe",
+    "compiled_room": false
+}

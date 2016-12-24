@@ -6,7 +6,9 @@
     },
     "can_search": true,
     "can_describe": true,
-    "groups": [],
+    "groups": [
+        "talkhall"
+    ],
     "location_type": "room",
     "routing_inclusion": "default",
     "geometry": {
