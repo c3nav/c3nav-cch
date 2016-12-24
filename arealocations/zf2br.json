@@ -1,0 +1,26 @@
+{
+    "level": "3",
+    "titles": {
+        "de": "Saal 2 Zwischenfoyer Balkon rechts",
+        "en": "Hall 2 Intermediate Foyer Right Balcony"
+    },
+    "can_search": true,
+    "groups": [],
+    "location_type": "room",
+    "can_describe": true,
+    "routing_inclusion": "needs_permission",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [244.05, 151.27],
+                [251.25, 151.23],
+                [253.8, 141.58],
+                [243.98, 135.89],
+                [243.59, 136.59],
+                [249.17, 139.81],
+                [244.05, 151.27]
+            ]
+        ]
+    }
+}

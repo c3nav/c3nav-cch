@@ -1,0 +1,24 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Saal 18",
+        "en": "Hall 18"
+    },
+    "can_search": true,
+    "groups": [],
+    "location_type": "room",
+    "can_describe": true,
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [239.14, 172.28],
+                [236.88, 180.91],
+                [228.94, 178.81],
+                [232.53, 170.48],
+                [239.14, 172.28]
+            ]
+        ]
+    }
+}

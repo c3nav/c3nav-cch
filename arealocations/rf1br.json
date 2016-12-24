@@ -1,0 +1,26 @@
+{
+    "level": "4",
+    "titles": {
+        "de": "Saal 1 Rangfoyer Balkon rechts",
+        "en": "Hall 1 Gallery Foyer Right Balcony"
+    },
+    "can_search": true,
+    "groups": [],
+    "location_type": "room",
+    "can_describe": true,
+    "routing_inclusion": "needs_permission",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [198.66, 120.56],
+                [194.12, 119.5],
+                [193.34, 102.72],
+                [181.56, 102.66],
+                [181.56, 101.94],
+                [197.94, 101.84],
+                [198.66, 120.56]
+            ]
+        ]
+    }
+}
