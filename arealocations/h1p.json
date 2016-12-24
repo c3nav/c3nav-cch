@@ -7,7 +7,8 @@
     "can_search": true,
     "can_describe": true,
     "groups": [
-        "h1"
+        "h1",
+        "talkhall"
     ],
     "location_type": "roomsegment",
     "routing_inclusion": "default",

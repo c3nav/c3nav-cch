@@ -1,9 +1,10 @@
 {
     "titles": {
         "de": "WC",
-        "en": "WC "
+        "en": "WC"
     },
     "can_search": true,
     "can_describe": false,
+    "color": "#e6d698",
     "compiled_room": false
 }
