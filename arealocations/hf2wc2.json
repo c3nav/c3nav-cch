@@ -1,0 +1,30 @@
+{
+    "level": "2",
+    "titles": {
+        "de": "Saal 2 Hauptfoyer WC rechts",
+        "en": "Hall 2 Main Foyer WC right"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "wc",
+        "wcm",
+        "wcmo"
+    ],
+    "location_type": "room",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [241.82, 167.02],
+                [237.62, 165.17],
+                [241.78, 155.77],
+                [245.64, 157.85],
+                [243.47, 162.71],
+                [243.61, 163.05],
+                [241.82, 167.02]
+            ]
+        ]
+    }
+}

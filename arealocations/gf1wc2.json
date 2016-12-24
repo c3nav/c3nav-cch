@@ -1,0 +1,30 @@
+{
+    "level": "1",
+    "titles": {
+        "de": "Saal 2 Garderobenfoyer WC rechts",
+        "en": "Hall 1 Cloakroom Foyer WC right"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "wc",
+        "wce",
+        "wcm",
+        "wcw"
+    ],
+    "location_type": "room",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [179.81, 145.91],
+                [179.88, 151.56],
+                [180.94, 151.56],
+                [184.22, 158.84],
+                [190.06, 146.06],
+                [179.81, 145.91]
+            ]
+        ]
+    }
+}

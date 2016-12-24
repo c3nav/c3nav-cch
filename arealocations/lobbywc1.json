@@ -1,0 +1,28 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Eingangshalle WC links",
+        "en": "Entrance Hall WC Left"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "wc",
+        "wcw",
+        "wcwo"
+    ],
+    "location_type": "room",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [189.62, 110.84],
+                [189.61, 100.91],
+                [186.48, 100.84],
+                [186.41, 110.84],
+                [189.62, 110.84]
+            ]
+        ]
+    }
+}

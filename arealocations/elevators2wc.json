@@ -1,0 +1,29 @@
+{
+    "level": "2",
+    "titles": {
+        "de": "Aufzugfoyer 2. OG WC",
+        "en": "Elevator Foyer Level 2 WC"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "wc",
+        "wca"
+    ],
+    "location_type": "room",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [201.81, 135.28],
+                [196.86, 142.03],
+                [195.17, 141.53],
+                [194.77, 132.23],
+                [198.7, 133.27],
+                [198.45, 134.36],
+                [201.81, 135.28]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "level": "1",
+    "titles": {
+        "de": "Saal 1 Garderobenfoyer WC links",
+        "en": "Hall 1 Cloakroom Foyer WC left"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "wc",
+        "wce",
+        "wcm",
+        "wcw"
+    ],
+    "location_type": "room",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [152.25, 146.12],
+                [152.25, 151.59],
+                [151.31, 151.53],
+                [147.97, 158.72],
+                [141.94, 146.0],
+                [152.25, 146.12]
+            ]
+        ]
+    }
+}

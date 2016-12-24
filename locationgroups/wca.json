@@ -1,0 +1,9 @@
+{
+    "titles": {
+        "de": "barrierefreies WC",
+        "en": "barrier-free WC"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "compiled_room": false
+}

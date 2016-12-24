@@ -1,0 +1,33 @@
+{
+    "level": "4",
+    "titles": {
+        "de": "Saal 2 Rangfoyer WC links",
+        "en": "Hall 2 Gallery Foyer WC left"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "wc",
+        "wce",
+        "wcm",
+        "wcw"
+    ],
+    "location_type": "room",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [235.82, 162.61],
+                [234.89, 164.73],
+                [235.45, 165.0],
+                [234.35, 167.45],
+                [233.49, 167.08],
+                [232.73, 168.85],
+                [230.73, 167.95],
+                [233.5, 161.55],
+                [235.82, 162.61]
+            ]
+        ]
+    }
+}

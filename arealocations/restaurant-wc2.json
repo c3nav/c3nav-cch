@@ -1,0 +1,31 @@
+{
+    "level": "1",
+    "titles": {
+        "de": "Restaurant WC rechts",
+        "en": "Restaurant WC Right"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "wc",
+        "wce",
+        "wcm",
+        "wcw"
+    ],
+    "location_type": "room",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [216.28, 133.09],
+                [213.32, 138.14],
+                [207.91, 134.97],
+                [209.74, 131.85],
+                [212.6, 133.46],
+                [213.7, 131.59],
+                [216.28, 133.09]
+            ]
+        ]
+    }
+}

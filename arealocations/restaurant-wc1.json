@@ -1,0 +1,32 @@
+{
+    "level": "1",
+    "titles": {
+        "de": "Restaurant WC links",
+        "en": "Restaurant WC left"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "wc",
+        "wce",
+        "wcm",
+        "wcw"
+    ],
+    "location_type": "room",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [211.42, 130.31],
+                [210.37, 132.2],
+                [209.72, 131.84],
+                [207.92, 134.97],
+                [203.67, 132.48],
+                [206.74, 128.26],
+                [208.94, 128.82],
+                [211.42, 130.31]
+            ]
+        ]
+    }
+}

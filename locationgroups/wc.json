@@ -1,0 +1,9 @@
+{
+    "titles": {
+        "de": "WC",
+        "en": "WC "
+    },
+    "can_search": true,
+    "can_describe": false,
+    "compiled_room": false
+}
