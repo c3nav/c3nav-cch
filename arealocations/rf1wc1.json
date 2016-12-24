@@ -1,0 +1,31 @@
+{
+    "level": "4",
+    "titles": {
+        "de": "Saal 1 Rangfoyer WC lnks",
+        "en": "Hall 1 Gallery Foyer WC left"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "wc",
+        "wce",
+        "wcm",
+        "wcw"
+    ],
+    "location_type": "room",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [139.83, 145.14],
+                [139.81, 148.72],
+                [139.03, 148.7],
+                [139.03, 151.59],
+                [135.98, 151.59],
+                [136.25, 145.16],
+                [139.83, 145.14]
+            ]
+        ]
+    }
+}

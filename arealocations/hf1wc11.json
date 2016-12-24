@@ -1,0 +1,28 @@
+{
+    "level": "2",
+    "titles": {
+        "de": "Saal 1 Hauptfoyer WC links links",
+        "en": "Hall 1 Main Foyer WC left left"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "wc",
+        "wcw",
+        "wcwo"
+    ],
+    "location_type": "room",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [140.19, 144.84],
+                [140.16, 156.78],
+                [135.81, 156.69],
+                [136.31, 144.72],
+                [140.19, 144.84]
+            ]
+        ]
+    }
+}

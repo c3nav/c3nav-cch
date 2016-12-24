@@ -1,0 +1,34 @@
+{
+    "level": "1",
+    "titles": {
+        "de": "Saal 7 Foyer WC links",
+        "en": "Hall 7 Foyer WC left"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "wc",
+        "wce",
+        "wcm",
+        "wcw"
+    ],
+    "location_type": "room",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [195.93, 99.52],
+                [195.94, 102.48],
+                [191.84, 102.53],
+                [191.84, 104.05],
+                [190.43, 104.04],
+                [190.44, 102.51],
+                [189.59, 102.46],
+                [189.61, 99.15],
+                [195.94, 99.16],
+                [195.93, 99.52]
+            ]
+        ]
+    }
+}

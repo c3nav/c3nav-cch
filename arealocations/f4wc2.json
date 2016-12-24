@@ -1,0 +1,30 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Saal 4 Foyer WC rechts",
+        "en": "Hall 4 Foyer WC right"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "wc",
+        "wcm",
+        "wcmo"
+    ],
+    "location_type": "room",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [191.06, 167.55],
+                [192.8, 167.98],
+                [191.98, 171.14],
+                [196.14, 172.2],
+                [194.45, 178.59],
+                [188.64, 176.92],
+                [191.06, 167.55]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "level": "1",
+    "titles": {
+        "de": "Foyer A-C WC rechts",
+        "en": "Foyer A-C WC right"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "wc",
+        "wce",
+        "wcm",
+        "wcw"
+    ],
+    "location_type": "room",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [88.61, 133.31],
+                [88.73, 137.16],
+                [76.88, 133.94],
+                [79.33, 130.75],
+                [88.61, 133.31]
+            ]
+        ]
+    }
+}

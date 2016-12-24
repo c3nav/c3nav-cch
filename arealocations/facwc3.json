@@ -1,0 +1,27 @@
+{
+    "level": "1",
+    "titles": {
+        "de": "Foyer A-C barrierefreies WC",
+        "en": "Foyer A-C barrier-free WC"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "wc",
+        "wca"
+    ],
+    "location_type": "room",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [75.13, 136.39],
+                [77.73, 137.05],
+                [77.09, 139.38],
+                [74.55, 138.66],
+                [75.13, 136.39]
+            ]
+        ]
+    }
+}

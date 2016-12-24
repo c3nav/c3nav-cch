@@ -1,0 +1,9 @@
+{
+    "titles": {
+        "de": "WC nur f\u00fcr M\u00e4nner",
+        "en": "WC for men only"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "compiled_room": false
+}

@@ -1,0 +1,29 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Eingangshalle barrierefreies WC",
+        "en": "Entrance Hall barrier-free WC"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "wc",
+        "wca"
+    ],
+    "location_type": "room",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [201.86, 107.73],
+                [197.4, 107.73],
+                [197.39, 110.84],
+                [197.98, 110.94],
+                [199.35, 111.69],
+                [201.9, 111.7],
+                [201.86, 107.73]
+            ]
+        ]
+    }
+}

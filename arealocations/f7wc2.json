@@ -1,0 +1,31 @@
+{
+    "level": "1",
+    "titles": {
+        "de": "Saal 7 Foyer WC rechts",
+        "en": "Hall 7 Foyer WC right"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "wc",
+        "wce",
+        "wcm",
+        "wcw"
+    ],
+    "location_type": "room",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [189.63, 99.14],
+                [183.88, 99.13],
+                [183.91, 104.06],
+                [190.44, 104.08],
+                [190.45, 102.5],
+                [189.59, 102.48],
+                [189.63, 99.14]
+            ]
+        ]
+    }
+}

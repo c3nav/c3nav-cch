@@ -1,0 +1,28 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Eingangshalle WC rechts",
+        "en": "Entrance Hall WC right"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "wc",
+        "wcm",
+        "wcmo"
+    ],
+    "location_type": "room",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [186.43, 110.85],
+                [183.34, 110.84],
+                [183.36, 100.91],
+                [186.5, 100.89],
+                [186.43, 110.85]
+            ]
+        ]
+    }
+}

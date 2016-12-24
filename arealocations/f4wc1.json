@@ -1,0 +1,28 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Saal 4 Foyer WC links",
+        "en": "Hall 4 Foyer WC left"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "wc",
+        "wcw",
+        "wcwo"
+    ],
+    "location_type": "room",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [191.09, 167.53],
+                [188.61, 176.62],
+                [183.33, 175.17],
+                [185.78, 166.09],
+                [191.09, 167.53]
+            ]
+        ]
+    }
+}

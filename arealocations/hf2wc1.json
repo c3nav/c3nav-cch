@@ -1,0 +1,33 @@
+{
+    "level": "2",
+    "titles": {
+        "de": "Saal 2 Hauptfoyer WC links",
+        "en": "Hall 2 Main Foyer WC left"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "wc",
+        "wcw",
+        "wcwo"
+    ],
+    "location_type": "room",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [241.27, 166.8],
+                [241.86, 167.05],
+                [243.61, 163.03],
+                [243.47, 162.64],
+                [245.67, 157.75],
+                [248.55, 159.34],
+                [247.12, 164.52],
+                [244.45, 170.05],
+                [240.58, 168.38],
+                [241.27, 166.8]
+            ]
+        ]
+    }
+}

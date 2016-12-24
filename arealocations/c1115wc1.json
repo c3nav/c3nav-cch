@@ -1,0 +1,28 @@
+{
+    "level": "1",
+    "titles": {
+        "de": "Flur 11-15 WC links",
+        "en": "Corridor 11-15 WC left"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "wc",
+        "wcw",
+        "wcwo"
+    ],
+    "location_type": "room",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [198.73, 154.0],
+                [203.5, 156.78],
+                [202.55, 158.44],
+                [198.22, 156.02],
+                [198.73, 154.0]
+            ]
+        ]
+    }
+}

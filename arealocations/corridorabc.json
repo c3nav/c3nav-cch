@@ -1,13 +1,13 @@
 {
     "level": "1",
     "titles": {
-        "de": "Flur A.C",
+        "de": "Flur A-C",
         "en": "Corridor A-C"
     },
     "can_search": true,
+    "can_describe": true,
     "groups": [],
     "location_type": "room",
-    "can_describe": true,
     "routing_inclusion": "default",
     "geometry": {
         "type": "Polygon",

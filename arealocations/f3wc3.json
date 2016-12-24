@@ -1,0 +1,27 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Saal 3 Foyer barrierefreies WC",
+        "en": "Hall 3 Foyer barrier-free WC"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "wc",
+        "wca"
+    ],
+    "location_type": "room",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [160.42, 140.2],
+                [160.48, 142.66],
+                [157.16, 142.64],
+                [157.08, 140.19],
+                [160.42, 140.2]
+            ]
+        ]
+    }
+}

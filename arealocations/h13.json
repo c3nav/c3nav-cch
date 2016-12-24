@@ -5,9 +5,9 @@
         "en": "Hall 13"
     },
     "can_search": true,
+    "can_describe": true,
     "groups": [],
     "location_type": "room",
-    "can_describe": true,
     "routing_inclusion": "default",
     "geometry": {
         "type": "Polygon",

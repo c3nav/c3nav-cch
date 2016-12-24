@@ -1,0 +1,28 @@
+{
+    "level": "2",
+    "titles": {
+        "de": "Foyer D-G WC rechts",
+        "en": "Foyer D-G WC right"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "wc",
+        "wcm",
+        "wcmo"
+    ],
+    "location_type": "room",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [88.62, 133.39],
+                [88.61, 137.08],
+                [76.86, 133.95],
+                [79.2, 130.78],
+                [88.62, 133.39]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "level": "1",
+    "titles": {
+        "de": "Foyer A-C WC links",
+        "en": "Foyer A-C WC left"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "wc",
+        "wce",
+        "wcm",
+        "wcw"
+    ],
+    "location_type": "room",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [78.84, 139.58],
+                [80.12, 134.84],
+                [88.7, 137.12],
+                [88.7, 142.3],
+                [78.84, 139.58]
+            ]
+        ]
+    }
+}

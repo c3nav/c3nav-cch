@@ -1,0 +1,31 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Saal 3 Foyer WC rechts",
+        "en": "Hall 3 Foyer WC right"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "wc",
+        "wce",
+        "wcm",
+        "wcw"
+    ],
+    "location_type": "room",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [159.53, 137.94],
+                [159.57, 140.25],
+                [160.46, 140.2],
+                [160.45, 142.72],
+                [174.0, 142.69],
+                [173.97, 137.98],
+                [159.53, 137.94]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "level": "3",
+    "titles": {
+        "de": "Saal 2 Zwischenfoyer WC rechts",
+        "en": "Hall 2 Intermediate Foyer WC right"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "wc",
+        "wcw",
+        "wcwo"
+    ],
+    "location_type": "room",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [143.97, 150.22],
+                [148.06, 159.38],
+                [145.97, 160.28],
+                [147.12, 163.31],
+                [141.72, 165.78],
+                [140.53, 163.44],
+                [141.47, 156.31],
+                [141.34, 151.38],
+                [143.97, 150.22]
+            ]
+        ]
+    }
+}
