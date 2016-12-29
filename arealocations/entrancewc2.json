@@ -8,8 +8,9 @@
     "can_describe": true,
     "groups": [
         "wc",
+        "wce",
         "wcm",
-        "wcxm"
+        "wcw"
     ],
     "location_type": "room",
     "routing_inclusion": "default",
